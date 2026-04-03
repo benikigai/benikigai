@@ -25,7 +25,7 @@ i'm self-taught on the software side. learned to code by building the systems i 
 
 **[elias](https://github.com/benikigai/elias)** · autonomous AI assistant on OpenClaw. 7 specialized agents, 5 messaging channels, 27 knowledge schemas, persistent memory, home inference cluster. runs 24/7.
 
-**[turnkeyhost.ai](https://turnkeyhost.vercel.app/demo)** · self-hosted property management system for short-term rentals. next.js, prisma, postgresql. replaced saas tools i was paying too much for.
+**[turnkeyhost.ai](https://preview.turnkeyhost.ai)** · self-hosted property management system for short-term rentals. next.js, prisma, postgresql. replaced saas tools i was paying too much for.
 
 **[stayikigai](https://stayikigai.com)** · direct booking site for my rental and real estate portfolio.
 
