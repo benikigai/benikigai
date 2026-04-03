@@ -25,7 +25,7 @@ i'm self-taught on the software side. learned to code by building the systems i 
 
 **openclaw** · multi-agent orchestration platform powering a fleet of 7 agents with tool use, persistent memory, and cross-channel messaging (whatsapp, sms, telegram, discord, line).
 
-**[turnkey](https://github.com/benikigai)** · self-hosted property management system for short-term rentals. next.js, prisma, postgresql. replaced saas tools i was paying too much for.
+**[turnkey](https://turnkeyhost.vercel.app/demo)** · self-hosted property management system for short-term rentals. next.js, prisma, postgresql. replaced saas tools i was paying too much for.
 
 **[stayikigai](https://stayikigai.com)** · direct booking site for my rental and real estate portfolio.
 
