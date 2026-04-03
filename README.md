@@ -61,6 +61,7 @@ outside of tech i built a short-term rental business from zero and handle my own
 [![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 [![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-8E75B2?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com/)
+[![Antigravity](https://img.shields.io/badge/Antigravity-8E75B2?style=flat-square&logo=google&logoColor=white)](https://idx.google.com/)
 [![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 [![NVIDIA DGX Spark](https://img.shields.io/badge/DGX_Spark-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
 [![Nemotron](https://img.shields.io/badge/Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://build.nvidia.com/nvidia/nemotron-3-super-120b-a12b)
