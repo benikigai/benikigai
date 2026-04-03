@@ -1,8 +1,8 @@
 <div align="center">
 
-# ben shyong
+# benjamin shyong
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=hardware+tpm+turned+ai+builder;building+agents+that+operate+in+the+real+world;home+ai+factory+%7C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=hardware+tpm+%E2%86%92+ai+builder;agents+%C3%97+proptech+%C3%97+open+protocols;building+in+public+from+sf)](https://git.io/typing-svg)
 
 founder @ [ikigai endeavors](https://ikigaiendeavors.com) · san francisco
 
@@ -13,35 +13,41 @@ founder @ [ikigai endeavors](https://ikigaiendeavors.com) · san francisco
 
 ---
 
-### about me
+### hey, i'm ben
 
-hardware tpm by trade — shipped products at **Apple** and **Meta** — now building ai systems that bridge the digital and physical world. i run a short-term rental portfolio across five properties and use it as a proving ground for the autonomous agents and infrastructure i build.
+i spent a decade as a hardware technical program manager at Apple and Meta, leading cross-functional teams shipping consumer hardware from prototype to mass production. i've run programs across mechanical engineering, electrical, firmware, supply chain, and factory ops in the US, China, and Taiwan.
 
-i run a home ai factory — apple silicon and nvidia gpu nodes for local inference, fine-tuning, and token intelligence — powering a multi-agent system that manages guest communications, property operations, and pricing intelligence across whatsapp, sms, telegram, discord, and line.
+now i build AI systems that operate in the physical world. i run a 5-property short-term rental business and use it as a live testbed for the autonomous agents and infrastructure i'm developing. i also built a home AI factory for local inference, fine-tuning, and token generation.
+
+i'm self-taught on the software side. learned to code by building the systems i needed. if it doesn't exist, i'll build it.
 
 ---
 
 ### what i'm building
 
-- **openclaw** — multi-agent orchestration platform powering a 7-agent fleet with tool use, memory, and cross-channel messaging
-- **[injester](https://injester.com)** — ai data ingestion platform for structured extraction at scale
-- **[agent web protocol](https://agentwebprotocol.org)** — open spec for agent-to-service discovery on the web
-- **[turnkey](https://github.com/benikigai)** — self-hosted property management system for short-term rentals (next.js + prisma + postgresql)
-- **[stayikigai](https://stayikigai.com)** — direct booking site for our rental portfolio
+**[injester](https://injester.com)** · ai data ingestion platform. structured extraction at scale. won first place at the Nebius Build SF hackathon and demoed at NVIDIA GTC 2026.
+
+**[agent web protocol](https://agentwebprotocol.org)** · open spec for agent-to-service discovery on the web. think DNS but for AI agents.
+
+**openclaw** · multi-agent orchestration platform powering a fleet of 7 agents with tool use, persistent memory, and cross-channel messaging (whatsapp, sms, telegram, discord, line).
+
+**[turnkey](https://github.com/benikigai)** · self-hosted property management system for short-term rentals. next.js, prisma, postgresql. replaced saas tools i was paying too much for.
+
+**[stayikigai](https://stayikigai.com)** · direct booking site for my rental and real estate portfolio.
 
 ---
 
 ### background
 
-- **Apple** — hardware technical program manager
-- **Meta** — hardware technical program manager
-- built and operate a 5-property short-term rental business
-- built a home ai factory for local inference, fine-tuning, and autonomous agent hosting
-- self-taught full-stack engineer — typescript, python, react, next.js, prisma, playwright, llm tooling
+i'm a systems and industrial engineer by training (Purdue). CPIM certified. started in supply chain and manufacturing, moved into hardware program management, and eventually landed at Apple and then Meta working on consumer hardware and AR.
+
+along the way i've managed factory buildouts in Suzhou, led cross-functional teams across 4+ time zones, and shipped products that millions of people use. i like hard problems that sit at the intersection of hardware, software, and operations.
+
+outside of tech i built a short-term rental business from zero, handle my own property operations, and am raising a family in the Bay Area.
 
 ---
 
-### tech stack
+### tech
 
 <div align="center">
 
@@ -69,4 +75,3 @@ i run a home ai factory — apple silicon and nvidia gpu nodes for local inferen
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benikigai&theme=tokyo-night&hide_border=true&area=true)](https://github.com/benikigai)
 
 </div>
-
