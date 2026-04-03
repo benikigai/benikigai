@@ -19,7 +19,7 @@ i'm self-taught on the software side. learned to code by building the systems i 
 
 ### what i'm building
 
-**[injester](https://injester.com)** · ai data ingestion platform. structured extraction at scale. won [first place](https://cerebralvalley.ai/e/nebius-build-sf/hackathon/gallery) at the Nebius Build SF hackathon and demoed at NVIDIA GTC 2026.
+**[injester](https://injester.com)** · ai data ingestion platform. structured extraction at scale. won [first place](https://cerebralvalley.ai/e/nebius-build-sf/hackathon/gallery) at the Nebius Build SF hackathon and demoed at [NVIDIA GTC 2026](https://youtu.be/lekH0NWRGFI?si=F_jT_EAwWra9hBBq).
 
 **[agent web protocol](https://agentwebprotocol.org)** · open spec for agent-to-service discovery on the web. think DNS but for AI agents.
 
