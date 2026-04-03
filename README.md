@@ -39,7 +39,7 @@ i'm self-taught on the software side. learned to code by building the systems i 
 
 i'm a systems and industrial engineer by training (Purdue). started in supply chain and manufacturing, moved into hardware program management, and eventually landed at Apple and then Meta working on consumer hardware and AR.
 
-along the way i've managed factory buildouts in Suzhou, led cross-functional teams across 4+ time zones, and shipped products that millions of people use. i like hard problems that sit at the intersection of hardware, software, and operations.
+along the way i've managed factory buildouts across Asia (Shanghai, Shenzhen, Chengdu, Zhengzhou, Tangshan, Nanjing, Hanoi, Taipei) and prototype facilities in the USA, led cross-functional teams across 4+ time zones, and shipped products that millions of people use. i like hard problems that sit at the intersection of hardware, software, and operations.
 
 outside of tech i built a short-term rental business from zero, handle my own property operations, and am raising a family in the Bay Area.
 
