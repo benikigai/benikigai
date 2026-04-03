@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=hardware+tpm+%E2%86%92+ai+builder;agents+%C3%97+proptech+%C3%97+open+protocols;building+in+public+from+sf)](https://git.io/typing-svg)
 
-founder @ [ikigai endeavors](https://ikigaiendeavors.com) · san francisco
+hardware tpm @ Apple + Meta · building [injester.com](https://injester.com) · sf
 
 [![Email](https://img.shields.io/badge/benjamin@ikigaiendeavors.com-1c1917?style=flat-square&logo=gmail)](mailto:benjamin@ikigaiendeavors.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-1c1917?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/benjaminshyong/)
