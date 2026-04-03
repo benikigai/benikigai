@@ -37,7 +37,7 @@ i'm self-taught on the software side. learned to code by building the systems i 
 
 ### background
 
-i'm a systems and industrial engineer by training (Purdue). CPIM certified. started in supply chain and manufacturing, moved into hardware program management, and eventually landed at Apple and then Meta working on consumer hardware and AR.
+i'm a systems and industrial engineer by training (Purdue). started in supply chain and manufacturing, moved into hardware program management, and eventually landed at Apple and then Meta working on consumer hardware and AR.
 
 along the way i've managed factory buildouts in Suzhou, led cross-functional teams across 4+ time zones, and shipped products that millions of people use. i like hard problems that sit at the intersection of hardware, software, and operations.
 
