@@ -45,27 +45,6 @@ outside of tech i built a short-term rental business from zero and handle my own
 
 <div align="center">
 
-**ai + inference**
-
-[![Anthropic](https://img.shields.io/badge/Anthropic-d97706?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
-[![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/)
-[![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech/)
-[![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)](https://notebooklm.google.com/)
-[![Kartesia](https://img.shields.io/badge/Kartesia-000?style=flat-square&logoColor=white)](https://www.kartesia.com/)
-
-**voice + comms**
-
-[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)](https://www.twilio.com/)
-[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square&logo=elevenlabs&logoColor=white)](https://elevenlabs.io/)
-[![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black)](https://deepgram.com/)
-[![Weavy](https://img.shields.io/badge/Weavy-7B61FF?style=flat-square&logo=weavy&logoColor=white)](https://www.weavy.com/)
-
-**languages + frameworks**
-
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -75,10 +54,20 @@ outside of tech i built a short-term rental business from zero and handle my own
 [![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/)
-
-**data + infra**
-
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech/)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Gemini 2.5](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/)
+[![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
+[![NVIDIA DGX Spark](https://img.shields.io/badge/DGX_Spark-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
+[![Nemotron](https://img.shields.io/badge/Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://build.nvidia.com/nvidia/nemotron-3-super-120b-a12b)
+[![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)](https://notebooklm.google.com/)
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)](https://www.twilio.com/)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square&logo=elevenlabs&logoColor=white)](https://elevenlabs.io/)
+[![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black)](https://deepgram.com/)
+[![Kartesia](https://img.shields.io/badge/Kartesia-000?style=flat-square&logoColor=white)](https://www.kartesia.com/)
+[![Weavy](https://img.shields.io/badge/Weavy-7B61FF?style=flat-square&logo=weavy&logoColor=white)](https://www.weavy.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -88,9 +77,6 @@ outside of tech i built a short-term rental business from zero and handle my own
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)](https://sentry.io/)
 [![1Password](https://img.shields.io/badge/1Password-0094F5?style=flat-square&logo=1password&logoColor=white)](https://1password.com/)
 [![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)](https://www.shopify.com/)
-
-**tools**
-
 [![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
