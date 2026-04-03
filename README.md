@@ -45,6 +45,8 @@ outside of tech i built a short-term rental business from zero and handle my own
 
 <div align="center">
 
+`frontend` · `backend` · `ai/inference` · `voice/comms` · `design/media` · `automation` · `infra/ops`
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -58,7 +60,7 @@ outside of tech i built a short-term rental business from zero and handle my own
 [![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
-[![Gemini 2.5](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/)
+[![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-8E75B2?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com/)
 [![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
 [![NVIDIA DGX Spark](https://img.shields.io/badge/DGX_Spark-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
 [![Nemotron](https://img.shields.io/badge/Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://build.nvidia.com/nvidia/nemotron-3-super-120b-a12b)
@@ -67,7 +69,16 @@ outside of tech i built a short-term rental business from zero and handle my own
 [![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square&logo=elevenlabs&logoColor=white)](https://elevenlabs.io/)
 [![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black)](https://deepgram.com/)
 [![Kartesia](https://img.shields.io/badge/Kartesia-000?style=flat-square&logoColor=white)](https://www.kartesia.com/)
+[![Suno AI](https://img.shields.io/badge/Suno_AI-000?style=flat-square&logoColor=white)](https://suno.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Weavy](https://img.shields.io/badge/Weavy-7B61FF?style=flat-square&logo=weavy&logoColor=white)](https://www.weavy.com/)
+[![Cosmo](https://img.shields.io/badge/Cosmo-000?style=flat-square&logoColor=white)](https://cosmo.so/)
+[![Kling AI](https://img.shields.io/badge/Kling_AI-000?style=flat-square&logoColor=white)](https://klingai.com/)
+[![Veo 3](https://img.shields.io/badge/Veo_3-8E75B2?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/veo/)
+[![CapCut](https://img.shields.io/badge/CapCut-000?style=flat-square&logo=capcut&logoColor=white)](https://www.capcut.com/)
+[![Manus](https://img.shields.io/badge/Manus-000?style=flat-square&logoColor=white)](https://manus.im/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)](https://zapier.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -79,7 +90,6 @@ outside of tech i built a short-term rental business from zero and handle my own
 [![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)](https://www.shopify.com/)
 [![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white)](https://syncthing.net/)
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)](https://asana.com/)
