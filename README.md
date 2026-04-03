@@ -58,6 +58,8 @@ outside of tech i built a short-term rental business from zero and handle my own
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech/)
+[![LanceDB](https://img.shields.io/badge/LanceDB-000?style=flat-square&logoColor=white)](https://lancedb.com/)
+[![Ontology](https://img.shields.io/badge/Ontology_Engine-1B1F23?style=flat-square&logo=palantir&logoColor=white)](https://github.com/benikigai/elias)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 [![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-8E75B2?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com/)
