@@ -41,7 +41,7 @@ i'm a systems and industrial engineer by training (Purdue). started in supply ch
 
 along the way i've managed factory buildouts across Asia (Shanghai, Shenzhen, Chengdu, Zhengzhou, Tangshan, Nanjing, Hanoi, Taipei) and prototype facilities in the USA, led cross-functional teams across 4+ time zones, and shipped products that millions of people use. i like hard problems that sit at the intersection of hardware, software, and operations.
 
-outside of tech i built a short-term rental business from zero, handle my own property operations, and am raising a family in the Bay Area.
+outside of tech i built a short-term rental business from zero and handle my own property operations.
 
 ---
 
