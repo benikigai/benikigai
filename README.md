@@ -15,7 +15,7 @@ hardware tpm @ Apple + Meta · building [injester.com](https://injester.com) · 
 
 ### hey, i'm ben
 
-i spent a decade as a hardware technical program manager at Apple and Meta, leading cross-functional teams shipping consumer hardware from prototype to mass production. i've run programs across mechanical engineering, electrical, firmware, supply chain, and factory ops in the US, China, and Taiwan.
+i spent a decade as a hardware technical program manager at Apple and Meta, leading cross-functional teams shipping consumer hardware from prototype to mass production. i've run programs across mechanical engineering, electrical, firmware, supply chain, and factory ops in the USA, China, Taiwan, and Vietnam.
 
 now i build AI systems that operate in the physical world. i run a 5-property short-term rental business and use it as a live testbed for the autonomous agents and infrastructure i'm developing. i also built a home AI factory for local inference, fine-tuning, and token generation.
 
