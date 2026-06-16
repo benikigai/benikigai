@@ -22,33 +22,11 @@ I spent a decade shipping consumer hardware from prototype to mass production at
 
 ## Currently building
 
-**[Injester](https://injester.com)** - *The missing layer between the human web and AI agents.*
-
-Injester strips a page down to what an agent actually needs: structured extraction, less noise, more reliable task completion. It started as the Nebius.Build SF winner, then demoed at NVIDIA GTC 2026.
-
-**Signal:** 81% less content, 3-5x better task completion, [hackathon winner](https://cerebralvalley.ai/e/nebius-build-sf/hackathon/gallery).
-
-**[Elias](https://github.com/benikigai/elias)** - *A personal AI assistant that runs like infrastructure, not a chat tab.*
-
-Elias is my OpenClaw-based assistant: seven specialized agents, five messaging channels, persistent version-controlled memory, and home inference. Every action leaves an audit trail I can inspect.
-
-**Signal:** OpenClaw, Telegram, Slack, Discord, WhatsApp, Email, local inference, persistent memory.
-
-**[TurnkeyHost](https://preview.turnkeyhost.ai)** - *The property-management system I built because the SaaS stack got expensive and fragmented.*
-
-TurnkeyHost runs my short-term rentals as one operation: reservations, guest messaging, FAQ matching, cleaning visibility, financials, and AI-assisted guest comms. The public preview uses synthetic data so you can click around without touching real guest records.
-
-**Signal:** five properties, one operator, Next.js, Prisma, Postgres, Beds24, Gemini.
-
-**[Agent Web Protocol](https://agentwebprotocol.org)** - *Discovery for the agentic web.*
-
-An open spec for agent-to-service discovery. The idea is simple: if agents are going to use the web, services need a reliable way to say what they are, what agents can do, and how to interact safely.
-
-**[Stay Ikigai](https://stayikigai.com)** - *The live operating testbed.*
-
-My direct-booking brand for five short-term rentals across the US, Taiwan, and Japan. It is also the proving ground for the software, agents, guest operations, and automation I build.
-
-**Signal:** Superhost, 4.95 stars across 423 reviews.
+- **[Injester](https://injester.com)** - agent-native commerce infrastructure that makes Shopify stores agent-buyable: catalog, pricing, variants, checkout, attribution, and recovery in one endpoint.
+- **[Elias](https://github.com/benikigai/elias)** - my OpenClaw assistant running as infrastructure: seven agents, five channels, versioned memory, local inference, and auditable actions.
+- **[TurnkeyHost](https://preview.turnkeyhost.ai)** - self-hosted PMS for my five short-term rentals: reservations, guest comms, FAQ matching, cleaning, financials, and AI replies in one ops stack.
+- **[Agent Web Protocol](https://agentwebprotocol.org)** - open discovery spec so agents can find what a web surface can do and how to interact with it safely.
+- **[Stay Ikigai](https://stayikigai.com)** - my direct-booking STR brand and live testbed for the property stack, agents, guest operations, and automation.
 
 ## Hardware and operations
 
