@@ -2,7 +2,19 @@
 
 **San Francisco** | **Staff TPM at Meta, ex-Apple** | **Operator-builder for agentic infrastructure**
 
-**Stack:** 🟦 TypeScript · ⚙️ Python · ▲ Next.js · 🔺 Prisma · 🗄️ PostgreSQL · 🦾 OpenClaw · 🔌 MCP/A2A · ✨ OpenAI Codex · 🧠 Claude Code · 🪢 Tailscale · ☁️ Cloudflare.
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="OpenClaw" src="https://img.shields.io/badge/OpenClaw-111827?style=flat-square">
+  <img alt="MCP/A2A" src="https://img.shields.io/badge/MCP%2FA2A-7C3AED?style=flat-square">
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+</p>
 
 > I build AI systems for messy physical-world operations: factories, guest ops, data pipelines, agent memory, and owner-led businesses where the software has to survive contact with real work.
 
