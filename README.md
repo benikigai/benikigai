@@ -1,108 +1,70 @@
-<div align="center">
+# Benjamin Shyong
 
-<img src="header.svg" width="900" alt="Benjamin Shyong" />
+**San Francisco** | **Staff TPM at Meta, ex-Apple** | **Operator-builder for agentic infrastructure**
 
-[![Email](https://img.shields.io/badge/benjamin@ikigaiendeavors.com-1c1917?style=flat-square&logo=gmail)](mailto:benjamin@ikigaiendeavors.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-1c1917?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/benjaminshyong/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-1c1917?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-b33a2e?style=flat-square)
+![A2A](https://img.shields.io/badge/-A2A-8f2c22?style=flat-square)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-</div>
+> I build AI systems for messy physical-world operations: factories, guest ops, data pipelines, agent memory, and owner-led businesses where the software has to survive contact with real work.
 
----
+I spent a decade shipping consumer hardware from prototype to mass production at Apple and Meta. Now I build agentic infrastructure against live operating surfaces: a five-property short-term-rental business, a self-hosted property management stack, agent discovery protocols, and a home inference fleet.
 
-i spent a decade as a hardware technical program manager at Apple and Meta, leading cross-functional teams shipping consumer hardware from prototype to mass production. i've run programs across mechanical engineering, electrical, firmware, supply chain, and factory ops in the USA, China, Taiwan, and Vietnam.
+## Currently building
 
-now i build AI systems that operate in the physical world. i run a 5-property short-term rental business and use it as a live testbed for the autonomous agents and infrastructure i'm developing. i also built a home AI factory for local inference, fine-tuning, and token generation.
+**[Injester](https://injester.com)** - *The missing layer between the human web and AI agents.*
 
-i'm self-taught on the software side. learned to code by building the systems i needed. if it doesn't exist, i'll build it.
+Injester strips a page down to what an agent actually needs: structured extraction, less noise, more reliable task completion. It started as the Nebius.Build SF winner, then demoed at NVIDIA GTC 2026.
 
----
+**Signal:** 81% less content, 3-5x better task completion, [hackathon winner](https://cerebralvalley.ai/e/nebius-build-sf/hackathon/gallery).
 
-### what i'm building
+**[Elias](https://github.com/benikigai/elias)** - *A personal AI assistant that runs like infrastructure, not a chat tab.*
 
-**[injester](https://injester.com)** · ai data ingestion platform. structured extraction at scale. won [first place](https://cerebralvalley.ai/e/nebius-build-sf/hackathon/gallery) at the Nebius Build SF hackathon and demoed at [NVIDIA GTC 2026](https://youtu.be/lekH0NWRGFI?si=F_jT_EAwWra9hBBq).
+Elias is my OpenClaw-based assistant: seven specialized agents, five messaging channels, persistent version-controlled memory, and home inference. Every action leaves an audit trail I can inspect.
 
-**[agent web protocol](https://agentwebprotocol.org)** · open spec for agent-to-service discovery on the web. think DNS but for AI agents.
+**Signal:** OpenClaw, Telegram, Slack, Discord, WhatsApp, Email, local inference, persistent memory.
 
-**[elias](https://github.com/benikigai/elias)** · autonomous AI assistant on OpenClaw. 7 specialized agents, 5 messaging channels, 27 knowledge schemas, persistent memory, home inference cluster. runs 24/7.
+**[TurnkeyHost](https://preview.turnkeyhost.ai)** - *The property-management system I built because the SaaS stack got expensive and fragmented.*
 
-**[turnkeyhost.ai](https://preview.turnkeyhost.ai)** · self-hosted property management system for short-term rentals. next.js, prisma, postgresql. replaced saas tools i was paying too much for.
+TurnkeyHost runs my short-term rentals as one operation: reservations, guest messaging, FAQ matching, cleaning visibility, financials, and AI-assisted guest comms. The public preview uses synthetic data so you can click around without touching real guest records.
 
-**[stayikigai](https://stayikigai.com)** · direct booking site for my rental and real estate portfolio.
+**Signal:** five properties, one operator, Next.js, Prisma, Postgres, Beds24, Gemini.
 
----
+**[Agent Web Protocol](https://agentwebprotocol.org)** - *Discovery for the agentic web.*
 
-### background
+An open spec for agent-to-service discovery. The idea is simple: if agents are going to use the web, services need a reliable way to say what they are, what agents can do, and how to interact safely.
 
-i'm a systems and industrial engineer by training. <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg" alt="Purdue" height="18"/> Purdue University (boiler up!). started in supply chain and manufacturing, moved into hardware program management, and eventually landed at Apple and then Meta working on consumer hardware and AR.
+**[Stay Ikigai](https://stayikigai.com)** - *The live operating testbed.*
 
-along the way i've managed factory buildouts across Asia (Shanghai, Shenzhen, Chengdu, Zhengzhou, Tangshan, Nanjing, Hanoi, Taipei) and prototype facilities in the USA, led cross-functional teams across 4+ time zones, and shipped products that millions of people use. i like hard problems that sit at the intersection of hardware, software, and operations.
+My direct-booking brand for five short-term rentals across the US, Taiwan, and Japan. It is also the proving ground for the software, agents, guest operations, and automation I build.
 
-outside of tech i built a short-term rental business from zero and handle my own property operations.
+**Signal:** Superhost, 4.95 stars across 423 reviews.
 
----
+## Hardware and operations
 
-### tech
+I am a systems and industrial engineer by training. Purdue SIE. Started in supply chain and manufacturing, moved into hardware program management, then Apple and Meta consumer hardware.
 
-<div align="center">
+At Meta, I work on manufacturing readiness for Ray-Ban Display AR glasses. Before that I spent six years at Apple across iPad Pro NPI, softgoods, and special project manufacturing bring-up. Before Apple, I worked across supply chain, ERP, and factory systems at Lincoln Electric.
 
-`frontend` · `backend` · `ai/inference` · `voice/comms` · `design/media` · `automation` · `infra/ops`
+The through-line is operational reality: mechanical, electrical, firmware, supply chain, factory ops, yield, throughput, people, and deadlines all in the same room.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech/)
-[![LanceDB](https://img.shields.io/badge/LanceDB-000?style=flat-square&logoColor=white)](https://lancedb.com/)
-[![Ontology](https://img.shields.io/badge/Ontology_Engine-1B1F23?style=flat-square&logo=palantir&logoColor=white)](https://github.com/benikigai/elias)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
-[![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-8E75B2?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com/)
-[![Antigravity](https://img.shields.io/badge/Antigravity-8E75B2?style=flat-square&logo=google&logoColor=white)](https://idx.google.com/)
-[![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
-[![NVIDIA DGX Spark](https://img.shields.io/badge/DGX_Spark-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
-[![Nemotron](https://img.shields.io/badge/Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://build.nvidia.com/nvidia/nemotron-3-super-120b-a12b)
-[![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)](https://notebooklm.google.com/)
-[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)](https://www.twilio.com/)
-[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square&logo=elevenlabs&logoColor=white)](https://elevenlabs.io/)
-[![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black)](https://deepgram.com/)
-[![Kartesia](https://img.shields.io/badge/Kartesia-000?style=flat-square&logoColor=white)](https://www.kartesia.com/)
-[![Suno AI](https://img.shields.io/badge/Suno_AI-000?style=flat-square&logoColor=white)](https://suno.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Weavy](https://img.shields.io/badge/Weavy-7B61FF?style=flat-square&logo=weavy&logoColor=white)](https://www.weavy.com/)
-[![Cosmo](https://img.shields.io/badge/Cosmo-000?style=flat-square&logoColor=white)](https://cosmo.so/)
-[![Kling AI](https://img.shields.io/badge/Kling_AI-000?style=flat-square&logoColor=white)](https://klingai.com/)
-[![Veo 3](https://img.shields.io/badge/Veo_3-8E75B2?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/veo/)
-[![CapCut](https://img.shields.io/badge/CapCut-000?style=flat-square&logo=capcut&logoColor=white)](https://www.capcut.com/)
-[![Manus](https://img.shields.io/badge/Manus-000?style=flat-square&logoColor=white)](https://manus.im/)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)](https://zapier.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)](https://stripe.com/)
-[![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)](https://sentry.io/)
-[![1Password](https://img.shields.io/badge/1Password-0094F5?style=flat-square&logo=1password&logoColor=white)](https://1password.com/)
-[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)](https://www.shopify.com/)
-[![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/)
-[![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white)](https://syncthing.net/)
-[![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)](https://asana.com/)
+## A few receipts
 
-</div>
+- 1st place, Nebius.Build SF: Injester, agent-to-merchant infrastructure.
+- 1st place, DataHub x Nebius: Data-OnCall, a four-agent data-quality incident response team.
+- 1st place, Cerebral Valley x Rosewood Hospitality 2030: Red Thread, an agentic operating system for luxury hospitality.
+- Top-six finalist, AWS Builder Loft: LoopOS, a multiplayer MCP-native back-office agent.
 
----
+## Connect
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benikigai&theme=tokyo-night&hide_border=true&area=true)](https://github.com/benikigai)
-
-</div>
+[benjaminshyong.com](https://benjaminshyong.com) | [email](mailto:benjamin.shyong@gmail.com) | [linkedin](https://www.linkedin.com/in/benjaminshyong)
