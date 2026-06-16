@@ -2,7 +2,7 @@
 
 **San Francisco** | **Staff TPM at Meta, ex-Apple** | **Operator-builder for agentic infrastructure**
 
-**Stack:** TypeScript, Python, Next.js, Prisma, PostgreSQL, OpenClaw, MCP/A2A, OpenAI Codex, Claude Code, Tailscale, Cloudflare.
+**Stack:** 🟦 TypeScript · ⚙️ Python · ▲ Next.js · 🔺 Prisma · 🗄️ PostgreSQL · 🦾 OpenClaw · 🔌 MCP/A2A · ✨ OpenAI Codex · 🧠 Claude Code · 🪢 Tailscale · ☁️ Cloudflare.
 
 > I build AI systems for messy physical-world operations: factories, guest ops, data pipelines, agent memory, and owner-led businesses where the software has to survive contact with real work.
 
