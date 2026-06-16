@@ -42,7 +42,3 @@ The through-line is operational reality: mechanical, electrical, firmware, suppl
 - 1st place, DataHub x Nebius: Data-OnCall, a four-agent data-quality incident response team.
 - 1st place, Cerebral Valley x Rosewood Hospitality 2030: Red Thread, an agentic operating system for luxury hospitality.
 - Top-six finalist, AWS Builder Loft: LoopOS, a multiplayer MCP-native back-office agent.
-
-## Connect
-
-[benjaminshyong.com](https://benjaminshyong.com) | [email](mailto:benjamin.shyong@gmail.com) | [linkedin](https://www.linkedin.com/in/benjaminshyong)
