@@ -10,11 +10,11 @@ I spent a decade shipping consumer hardware from prototype to mass production at
 
 ## Currently building
 
-- **[Injester](https://injester.com)** - agent-native commerce for Shopify: catalog to checkout, attribution, and recovery.
-- **[Elias](https://github.com/benikigai/elias)** - my OpenClaw assistant: seven agents, five channels, versioned memory, local inference.
-- **[TurnkeyHost](https://preview.turnkeyhost.ai)** - self-hosted PMS for five STRs: reservations, guest comms, cleaning, financials.
-- **[Agent Web Protocol](https://agentwebprotocol.org)** - open discovery spec for what agents can do on a web surface.
-- **[Stay Ikigai](https://stayikigai.com)** - direct-booking STR brand and live testbed for my ops stack.
+- 🛒 **[Injester](https://injester.com)** - agent-native commerce for Shopify: catalog to checkout, attribution, and recovery.
+- 🦾 **[Elias](https://github.com/benikigai/elias)** - my OpenClaw assistant: seven agents, five channels, versioned memory, local inference.
+- 🧰 **[TurnkeyHost](https://preview.turnkeyhost.ai)** - self-hosted PMS for five STRs: reservations, guest comms, cleaning, financials.
+- 🧭 **[Agent Web Protocol](https://agentwebprotocol.org)** - open discovery spec for what agents can do on a web surface.
+- 🏡 **[Stay Ikigai](https://stayikigai.com)** - direct-booking STR brand and live testbed for my ops stack.
 
 ## Hardware and operations
 
