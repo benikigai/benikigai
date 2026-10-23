@@ -1,42 +1,73 @@
 # Benjamin Shyong
 
-**San Francisco** | **Staff TPM at Meta, ex-Apple** | **Operator-builder for agentic infrastructure**
+**San Francisco** | **Ex-Apple, ex-Meta hardware** | **Building digital twins for hardware manufacturing**
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="MuJoCo" src="https://img.shields.io/badge/MuJoCo-1F2937?style=flat-square">
+  <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="OpenClaw" src="https://img.shields.io/badge/OpenClaw-111827?style=flat-square">
   <img alt="MCP/A2A" src="https://img.shields.io/badge/MCP%2FA2A-7C3AED?style=flat-square">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white">
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
-  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white">
 </p>
 
-> I build AI systems for messy physical-world operations: factories, guest ops, data pipelines, agent memory, and owner-led businesses where the software has to survive contact with real work.
+> Simulation shows you what a design should do. A digital twin grounded in real-world physics and correlated to actual performance shows you what it actually does.
 
-I spent a decade shipping consumer hardware from prototype to mass production at Apple and Meta. Now I build agentic infrastructure against live operating surfaces: a five-property short-term-rental business, a self-hosted property management stack, agent discovery protocols, and a home inference fleet.
+I spent ten years taking consumer hardware from prototype to mass production at Apple and Meta. In 2026 I left Meta to build full time.
 
-## Currently building
+## Now
 
-- 🛒 **[Injester](https://injester.com)** - agent-native commerce for Shopify: catalog to checkout, attribution, and recovery.
-- 🦾 **[Elias](https://github.com/benikigai/elias)** - my OpenClaw assistant: seven agents, five channels, versioned memory, local inference.
-- 🧰 **[TurnkeyHost](https://preview.turnkeyhost.ai)** - self-hosted PMS for five STRs: reservations, guest comms, cleaning, financials.
-- 🧭 **[Agent Web Protocol](https://agentwebprotocol.org)** - open discovery spec for what agents can do on a web surface.
-- 🏡 **[Stay Ikigai](https://stayikigai.com)** - direct-booking STR brand and live testbed for my ops stack.
+I'm building digital twins of real manufacturing floors: the actual stations, fixtures and tolerances, modeled in physics and checked against what the line really produces. Hardware teams can then run the next prototype build virtually. They change a part, rerun thousands of units in minutes, and see the effect on yield and reliability before the next EVT or DVT. Every real build the model is checked against makes it more accurate.
 
-## Hardware and operations
+- **Why:** at Apple (iPad Pro NPI, special projects, soft goods) and Meta (manufacturing readiness for Ray-Ban Display), a major build issue cost weeks of slip, and nobody found it until the parts existed.
+- **Proof so far:** a Monte Carlo plus MuJoCo yield model of a snap-fit assembly. A 0.5 mm hook change moved predicted yield from 82.8% to 96.2%. The two models agree 98.4% of the time away from the pass/fail boundary, and the boundary is where real line data matters. An agentic version, [Factory N+1](https://github.com/benikigai/factory-n1), won **NVIDIA Best Use of Nemotron** at the Recursive Agents Hackathon (Oct 2026).
+- **Stage:** early. I'm talking with NPI, DFX and manufacturing engineers about how their builds actually go.
 
-I am a systems and industrial engineer by training. Purdue SIE. Started in supply chain and manufacturing, moved into hardware program management, then Apple and Meta consumer hardware.
+**I'd like to talk to:**
+- **Sim-to-real people:** contact-rich physics, robotics or line simulation (MuJoCo, Isaac, Omniverse, Genesis), and experience correlating a model with real hardware data.
+- **Hardware teams** with a build coming up who would try a virtual one first.
 
-At Meta, I work on manufacturing readiness for Ray-Ban Display AR glasses. Before that I spent six years at Apple across iPad Pro NPI, softgoods, and special project manufacturing bring-up. Before Apple, I worked across supply chain, ERP, and factory systems at Lincoln Electric.
+Reach me through [benjaminshyong.com](https://benjaminshyong.com).
 
-The through-line is operational reality: mechanical, electrical, firmware, supply chain, factory ops, yield, throughput, people, and deadlines all in the same room.
+## Background
 
-## A few receipts
+- **Meta and Apple (≈10 years):** consumer hardware NPI from prototype to mass production, with a lot of time on factory floors in China.
+- **Lincoln Electric:** supply chain, ERP and factory systems. Systems and industrial engineering degree from Purdue.
+- **[Injester](https://injester.com) (2026):** agent-native commerce for Shopify sellers, covering catalog to checkout, attribution and recovery. It started as a 1st-place build at Nebius.Build SF.
 
-- **1st place, Nebius.Build SF:** [Injester](https://injester.com) - agent-commerce prototype that became the Shopify agent-buyable infrastructure.
-- **1st place, DataHub x Nebius:** [Data-OnCall](https://datahub-hackathon-oncall.vercel.app) - 4-agent data-quality incident response with lineage tracing and writeback.
-- **1st place, Cerebral Valley x Rosewood Hospitality 2030:** [Red Thread](https://app.redthread.boutique) - luxury-hospitality agent OS with live A2A handoff.
-- **Top-six finalist, AWS Builder Loft Agent Hack Day:** [LoopOS](https://github.com/benikigai/loopos) - multiplayer MCP-native back-office agent for STR operations.
+## 2026 hackathons
+
+I build in the open at hackathons, usually solo or with a small team, and ship working demos in a day. Wins:
+
+| Result | Event | Build |
+|---|---|---|
+| 🥇 NVIDIA Best Use of Nemotron | Recursive Agents Hackathon (Crusoe), Oct 2026 | [Factory N+1](https://github.com/benikigai/factory-n1): Nemotron agents redesign a fulfillment floor, and a change ships only if it wins on unseen days |
+| 🥇 1st place | Cerebral Valley × Rosewood Hospitality 2030, May 2026 | [Red Thread](https://github.com/benikigai/redthread): agent OS for luxury hospitality with live hotel-to-guest A2A handoff |
+| 🥇 1st place | DataHub × Nebius, Apr 2026 | [data-oncall](https://github.com/benikigai/datahub-hackathon-oncall): 4 agents use lineage to find the root cause of data incidents in about 90 s |
+| 🥇 1st place | Nebius.Build SF, Mar 2026 | [Injester](https://injester.com): agent-commerce prototype that became Injester |
+| Top-six finalist | YC Agent Hack Day (AWS Builder Loft), Apr 2026 | [LoopOS](https://github.com/benikigai/loopos): MCP-native back-office agent for service operations |
+
+<details>
+<summary>All the other builds</summary>
+
+- [Marginalia](https://github.com/benikigai/marginalia): on-device voice agent for smart glasses (Gemma 4 + Even Realities G2, zero cloud). YC Gemma 4 Voice.
+- [Timbre](https://github.com/benikigai/timbre): two Gemini agents argue so a founder's voice survives. Google I/O.
+- [Scriber](https://github.com/benikigai/scriber): meeting agent that runs your standup live and edits Linear mid-call. OpenAI Voice Hack Night.
+- [reSKILL](https://github.com/benikigai/reSKILL): sealed replay gate for self-improving agent skills. AI Engineer World's Fair.
+- [WorldKinetics](https://github.com/benikigai/worldkinetic): customize everyday products without CAD; the model writes the CAD and independent checks gate approval. OpenAI GPT-6 Astra.
+- [AgentMES](https://github.com/benikigai/agent-mes): agents do the work and humans own the gates in a 7-stage engineering workflow. Blaxel × Codex × Redis.
+- [DarkMesh](https://github.com/benikigai/darkmesh): resilient edge sensor-fusion mesh for disconnected environments. National Security Hackathon.
+- [AgentTalkie](https://github.com/benikigai/agenttalkie), [JEVgotiator](https://github.com/benikigai/JEVgotiator), [Corgi Ads](https://github.com/benikigai/corgihack): voice agent workspace, used-Tesla negotiation agent, ad agent with human-approved spend.
+
+</details>
+
+## What I run day to day
+
+I run an agent fleet on my own hardware, and it does a lot of my real work:
+
+- 🌙 **[Nightshift](https://github.com/benikigai/nightshift):** Ralph-loop agent harness with build, gate, separate evaluator, retry and commit. Its public proof run built 29 of 30 features for about $0.95.
+- 🦾 **[Elias](https://github.com/benikigai/elias):** my OpenClaw assistant, with specialized agents, multiple channels, versioned memory and local inference on a home GPU and DGX Spark cluster.
+- 🧰 **[TurnkeyHost](https://preview.turnkeyhost.ai) and [Stay Ikigai](https://stayikigai.com):** a self-hosted PMS that runs my five short-term rentals (reservations, guest messages, cleaning, pricing). The live testbed for everything above.
+- 🧭 **[Agent Web Protocol](https://agentwebprotocol.org):** an open discovery spec for what agents can do on a web surface.
