@@ -28,7 +28,7 @@ Every factory has three versions:
 The engine models the real stations, fixtures and tolerances in physics (Monte Carlo plus MuJoCo, on CPU), runs thousands of virtual units in minutes, and ranks what will fail. The hard part is the loop: score each prediction against a real build, then recalibrate until the twin earns a Proven grade. Nothing is scored on a real build yet. A blind backtest on a past build comes first.
 
 - **Why:** at Apple (iPad Pro NPI, special projects, soft goods) and Meta (Ray-Ban Display), a major build issue cost weeks of slip, and nobody found it until the parts existed. What one program learned lived in slide decks, so the next team learned it again.
-- **Proof so far:** a Monte Carlo plus MuJoCo yield model of a snap-fit assembly. A 0.5 mm hook change moved predicted yield from 82.8% to 96.2%. The two models agree 98.4% of the time away from the pass/fail boundary, and the boundary is where real line data matters. An agentic version, [Factory N+1](https://github.com/benikigai/factory-n1), won **NVIDIA Best Use of Nemotron** at the Recursive Agents Hackathon (Oct 2026).
+- **Proof so far:** a Monte Carlo plus MuJoCo yield model of a synthetic snap-fit part. A 0.5 mm hook change moved simulated yield from 82.76% to 96.24%, with 5,000 virtual units in about 5.5 seconds on one workstation. An agentic version, [Factory N+1](https://github.com/benikigai/factory-n1), won **NVIDIA Best Use of Nemotron** at the Recursive Agents Hackathon (Oct 2026).
 
 ## Open Product
 
