@@ -1,11 +1,12 @@
 # Benjamin Shyong
 
-**San Francisco** | **Ex-Apple, ex-Meta hardware** | **Building digital twins for hardware manufacturing**
+**San Francisco** | **17 years in hardware manufacturing (Apple, Meta)** | **Founder, N+1 Labs**
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="MuJoCo" src="https://img.shields.io/badge/MuJoCo-1F2937?style=flat-square">
+  <img alt="OpenUSD" src="https://img.shields.io/badge/OpenUSD-0F766E?style=flat-square">
   <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
   <img alt="MCP/A2A" src="https://img.shields.io/badge/MCP%2FA2A-7C3AED?style=flat-square">
@@ -13,29 +14,43 @@
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
-> Simulation shows you what a design should do. A digital twin grounded in real-world physics and correlated to actual performance shows you what it actually does.
+> Most teams building AI for factories are software people learning manufacturing. I'm the reverse. I've spent 17 years on factory floors, and now I build the software myself with coding agents.
 
-I spent ten years taking consumer hardware from prototype to mass production at Apple and Meta. In 2026 I left Meta to build full time.
+## Now: N+1 Labs
 
-## Now
+N+1 Labs predicts where a hardware team's next factory build will fail, before tooling, fixtures and the line are committed.
 
-I'm building digital twins of real manufacturing floors: the actual stations, fixtures and tolerances, modeled in physics and checked against what the line really produces. Hardware teams can then run the next prototype build virtually. They change a part, rerun thousands of units in minutes, and see the effect on yield and reliability before the next EVT or DVT. Every real build the model is checked against makes it more accurate.
+Every factory has three versions:
+- **N−1:** the line rebuilt from a teardown of a shipped product
+- **N:** the line you run
+- **N+1:** your next build, simulated first
 
-- **Why:** at Apple (iPad Pro NPI, special projects, soft goods) and Meta (manufacturing readiness for Ray-Ban Display), a major build issue cost weeks of slip, and nobody found it until the parts existed.
+The engine models the real stations, fixtures and tolerances in physics (Monte Carlo plus MuJoCo, on CPU), runs thousands of virtual units in minutes, and ranks what will fail. The hard part is the loop: score each prediction against a real build, then recalibrate until the twin earns a Proven grade. Nothing is scored on a real build yet. A blind backtest on a past build comes first.
+
+- **Why:** at Apple (iPad Pro NPI, special projects, soft goods) and Meta (Ray-Ban Display), a major build issue cost weeks of slip, and nobody found it until the parts existed. What one program learned lived in slide decks, so the next team learned it again.
 - **Proof so far:** a Monte Carlo plus MuJoCo yield model of a snap-fit assembly. A 0.5 mm hook change moved predicted yield from 82.8% to 96.2%. The two models agree 98.4% of the time away from the pass/fail boundary, and the boundary is where real line data matters. An agentic version, [Factory N+1](https://github.com/benikigai/factory-n1), won **NVIDIA Best Use of Nemotron** at the Recursive Agents Hackathon (Oct 2026).
-- **Stage:** early. I'm talking with NPI, DFX and manufacturing engineers about how their builds actually go.
 
-**I'd like to talk to:**
-- **Sim-to-real people:** contact-rich physics, robotics or line simulation (MuJoCo, Isaac, Omniverse, Genesis), and experience correlating a model with real hardware data.
-- **Hardware teams** with a build coming up who would try a virtual one first.
+## Open Product
+
+GitHub opened up code. Hugging Face opened up AI models. Open Product opens up hardware.
+
+Each release is an OPD (Open Product Description), built on OpenUSD and STEP: the bill of materials, supply chain, station layout, fixtures and every assembly step for a shipped product, in one package. OPDs can be public or private, and private ones can go public after an embargo. First release: Nintendo Joy-Con, December 2026.
+
+## I'd like to talk to
+
+- **Sim-to-real people:** contact-rich physics, robotics or line simulation (MuJoCo, Isaac, Omniverse, Genesis), with experience correlating a model to real hardware data. I'm looking for a co-founder here.
+- **Hardware teams** with a past build they'd let us blind-backtest, or a build coming up they'd try virtually first.
+- **Teardown and hardware people** who want to help write the first OPDs.
 
 Reach me through [benjaminshyong.com](https://benjaminshyong.com).
 
 ## Background
 
-- **Meta and Apple (≈10 years):** consumer hardware NPI from prototype to mass production, with a lot of time on factory floors in China.
-- **Lincoln Electric:** supply chain, ERP and factory systems. Systems and industrial engineering degree from Purdue.
-- **[Injester](https://injester.com) (2026):** agent-native commerce for Shopify sellers, covering catalog to checkout, attribution and recovery. It started as a 1st-place build at Nebius.Build SF.
+- **Meta (2022 to 2026):** Staff TPM. Led Ray-Ban Display, the first consumer glasses with a monocular AR display, from prototype to mass production, then Ray-Ban Meta audio glasses.
+- **Apple (2016 to 2022):** took iPad Pro from prototype to mass production, stood up a new manufacturer and automation line for a health product, and ran operations and quality on iPhone.
+- **Lincoln Electric (2009 to 2016):** manufacturing engineering to operations lead, ending with an ERP rollout across five China plants.
+- 9 factory cities across China, Vietnam and Taiwan. Systems and industrial engineering, Purdue.
+- **[Injester](https://injester.com) (2026):** co-founded agent-native commerce for Shopify sellers, which started as a 1st-place build at Nebius.Build SF. I'm now full-time on N+1 Labs.
 
 ## 2026 hackathons
 
